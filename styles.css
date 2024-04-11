@@ -116,7 +116,10 @@ header .mobile {
   
 .photos {
     flex: 1;
-    /* padding-right: 50px; */
+}
+
+img {
+    z-index: -1;
 }
   
 .photo-gallery img {
@@ -124,6 +127,22 @@ header .mobile {
     height: auto;
     border-radius: 50%;
     border: #ffffff solid 5px;
+}
+
+
+/* CANVAS */
+.canvas-container {
+    z-index: 11;
+}
+canvas {
+    position: fixed;
+    z-index: 2;
+    top: 55%;
+    left: 75%;
+}
+
+#dessin{
+    z-index: 1;
 }
 
 .button {
