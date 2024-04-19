@@ -4,6 +4,7 @@ Typically, this portfolio website has a main page that features different projec
 in case someone wants to reach me out.
 
 **Project View**
+<a href="https://github.com/Ertholin/codecademy-portfolio/blob/master/images/image-readme.png" target="blank"><img align="center" src="https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg?_gl=1*eajy6i*_ga*OTMwODUxNDEzMS4xNjk5MTEzMTI3*_ga_3LRZM6TM9L*MTcwMzU3MzgzNi45NS4xLjE3MDM1NzM5MjcuNTAuMC4w"/></a>
 
 
 **What the project contains:**
